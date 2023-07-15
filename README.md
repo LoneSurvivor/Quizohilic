@@ -1,3 +1,4 @@
 # Quizohilic
-Quiz application developed using JAVA Swings, JAVA Applets, MySQL \\
-https://youtu.be/LmKT_vnJbKw
+Quiz application developed using JAVA Swings, JAVA Applets, MySQL.
+
+Link: https://youtu.be/LmKT_vnJbKw
